@@ -1,6 +1,6 @@
 # 🏋🏻‍♂️ Nathan Smith
-Software Engineer with a focus on full stack development.\
-Currently a third year at UNSW studying Computer Science (Artificial Intelligence) / Economics
+**`Software Engineer (Ai)`**\
+Hi I'm Nathan, a software engineer with a focus for full stack development, passionate about developing and collaborating on well documented and maintained technologies. I am currently a third year at UNSW studying Computer Science (Artificial Intelligence) and Economics looking for new and interesting opportunities! :)
 
 ---
 ### Languages and Frameworks
